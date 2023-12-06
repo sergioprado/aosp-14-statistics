@@ -28,7 +28,7 @@ Test environment:
 | odm.img file size | 0 | 820K | 452K |
 | product.img file size | 0 | 309M | 210M |
 
-## Migration from Makefile to Soong to Bazel to ???
+## Migration from Makefile to Soong to Bazel
 
 | Feature | AOSP 8 | AOSP 13 | AOSP 14 |
 | :------ | :----: | :-----: | :-----: |
